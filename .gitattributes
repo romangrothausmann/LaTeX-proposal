@@ -1,0 +1,7 @@
+## special diffs
+*.pdf     diff=pdf
+*.tex     diff=tex
+*.ins     diff=tex
+*.dtx     diff=tex
+*.sty     diff=tex
+*.bib     diff=bib
